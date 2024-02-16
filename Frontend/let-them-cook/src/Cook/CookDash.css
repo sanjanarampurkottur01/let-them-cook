@@ -1,0 +1,29 @@
+/* CooksDashboard.css */
+
+.calendar {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .calendar th {
+    background-color: #f2f2f2;
+  }
+  
+  .calendar th,
+  .calendar td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .calendar select {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .todayCell{
+    background-color: rgb(230, 230, 225);
+    color: white
+  }
+  /* Style as needed to achieve the desired appearance */
+  
